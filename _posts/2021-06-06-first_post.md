@@ -1,5 +1,8 @@
 ---
 title : "First"
+tags:
+  - categories
+  - edge case
 ---
 
 # 첫번째 포스트
